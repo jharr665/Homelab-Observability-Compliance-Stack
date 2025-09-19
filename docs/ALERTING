@@ -1,0 +1,5 @@
+Alerting
+⦁	Prometheus Alertmanager routes alerts via webhook.
+⦁	Critical alerts sent to SOC stack (Wazuh/Elastic).
+⦁	Alerts also forwarded to Slack/Discord via webhooks.
+⦁	Alert categories: Infrastructure, Security Posture, Uptime.
